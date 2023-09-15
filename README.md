@@ -1,1 +1,1 @@
-# chadgpt
+# ChadGPT Initial repository
